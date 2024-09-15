@@ -1,0 +1,5 @@
+# Ignore all child venv and env files
+**/venv/
+**/env/
+**/.env.*
+**/.env
