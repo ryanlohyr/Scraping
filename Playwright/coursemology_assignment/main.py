@@ -101,4 +101,3 @@ with sync_playwright() as p:
 
     time.sleep(100)
     browser.close()
-    # page.goto("https://growthbeans.coursemology.org/courses/2797/assessments?category=3781")
